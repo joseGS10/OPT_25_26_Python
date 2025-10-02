@@ -1,8 +1,8 @@
 usuario_correcto = "admin"
-contraseña_correcta = "1234"
+contrasena_correcta = "1234"
 nombre = input("Nombre de usuario: ")
-contraseña = input("Password: ")
-if (nombre == usuario_correcto and contraseña == contraseña_correcta):
+contrasena = input("Password: ")
+if (nombre == usuario_correcto and contrasena == contrasena_correcta):
     print("Acceso concedido")
 else:
     print("Acceso denegado")
