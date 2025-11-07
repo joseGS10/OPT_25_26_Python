@@ -4,27 +4,32 @@
 people = {}  # Main dictionary: {nif: {name, age, city, profession}}
 
 
-def create_person():
+def create_person(person):
     """Create a new person and add to the dictionary."""
     # TODO: Ask for ID, name, age, city, profession and add to people
-    nif = input("Introduzca su DNI: ")
-    name = input("Introduzca su Nombre: ")
-    age = int(input("Introduzca su edad: "))
-    city = input("Introduzca su Ciudad: ")
-    profession = input("Introduzca su profesion: ")
-
-    people[nif] = {"name" : name, "age" : age, "city" : city, "profession" : profession}
+    key = person.get("dni")
+    people[key] = person
 
 
 def read_people():
     """Display all registered people."""
     # TODO: Loop through people and print their info
-    for clave, valores in people.items():
+    print(people)
+    """
+        for clave, valores in people.items():
         print(f"NIF: {clave} -> valores{valores}")
+    """
 
 def update_person():
     """Update information of an existing person."""
     # TODO: Ask for ID, check if exists, and update fields
+    person = {"dni": "442077778F", "nombre":"Pepe", "age": 19, "ciudad":"Huelva"}
+    key = person.get("dni")
+    if key in people:
+        people[key] = person
+    else:
+        print("No existe ese usuario")
+    """
     nif_actualizar = input("Introduce nif de la persona a actualizar: ")
     if nif_actualizar in people:
         print("Actualizaión de los valores de los campos. Intro si no se desea modificar.")
@@ -41,17 +46,19 @@ def update_person():
     #if nif_actualizar not in people:
     else:
         print(f"La persona de NIF {nif_actualizar} no existe aún")
-
+    """
 def delete_person():
     """Delete a person by ID."""
     # TODO: Ask for ID and remove from the dictionary if exists
+    del people["44207778F"]
+    """
     nif_borrar = input("Intro nif de la persona a eliminar: ")
     if (nif_borrar) in people:
         del people[nif_borrar]
         print(f"La persona con NIF {nif_borrar} ha sido eliminada.")
     else:
         print(f"La persona con NIF {nif_borrar} no exite.")
-
+    """
 
 # 🔸 Main menu
 option = ""
@@ -68,7 +75,16 @@ while option != "5":
 
     match option:
         case "1":
-            create_person()
+            persona={}
+            nif = input("Introduzca su DNI: ")
+            name = input("Introduzca su Nombre: ")
+            age = int(input("Introduzca su edad: "))
+            city = input("Introduzca su Ciudad: ")
+            profession = input("Introduzca su profesion: ")
+
+            persona= {"name" : name, "age" : age, "city" : city, "profession" : profession}
+
+            create_person(persona)
             print("Persona creada correctamente.")
         case "2":
             read_people()
