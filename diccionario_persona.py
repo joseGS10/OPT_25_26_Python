@@ -8,9 +8,9 @@ persona["profesion"] = "pintor"
 del persona["ciudad"]
 
 for clave,valor in persona.items():
-    print(clave, ":" , valor
+    print(clave, ":" , valor)
 
-          )
+
 
 
 
