@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08bf118d-0515-4356-aa29-f8f7758bd668" name="Changes" comment="actividades bloque02 restantes">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="feature/bloque02" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/feature/bloque01" />
+                <branch-info repo="$PROJECT_DIR$" source="origin/feature/bloque02" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;joseGS10&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/joseGS10/OPT_25_26_Python.git&quot;,
+    &quot;accountId&quot;: &quot;469cd887-1606-4534-a3aa-5fcbeebfa9b3&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;joseGS10&quot;,
+    &quot;repository&quot;: &quot;OPT_25_26_Python&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/b2_06_informaciion_persona.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="33WJ4M2hZxXJYRFpX1MGho4hXzq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.b1_10_login.executor": "Run",
+    "Python.b1_1_presentacion.executor": "Run",
+    "Python.b1_2_calculadora_simple.executor": "Run",
+    "Python.b1_3_conversor_datos.executor": "Run",
+    "Python.b1_4_login.executor": "Run",
+    "Python.b1_5_1_calculadora_condicional.executor": "Run",
+    "Python.b1_5_2_calculadora_switch.executor": "Run",
+    "Python.b1_6_contador_regresivo.executor": "Run",
+    "Python.b1_7_filtrar_lista.executor": "Run",
+    "Python.b1_8_tabla_multiplicar.executor": "Debug",
+    "Python.b1_9_analizador_notas.executor": "Run",
+    "Python.b2_03_calculadora.executor": "Run",
+    "Python.b2_04_contador.executor": "Run",
+    "Python.b2_05_gestion_lista.executor": "Run",
+    "Python.b2_06_informaciion_persona.executor": "Run",
+    "Python.b2_07_agenda.executor": "Run",
+    "Python.b2_08_analisis_numeros.executor": "Run",
+    "Python.b2_09_01_zip.executor": "Run",
+    "Python.b2_09_02_zip_avanzado.executor": "Run",
+    "Python.b2_10_01_enumerate.executor": "Run",
+    "Python.b2_10_02_enumerate_avanzado.executor": "Run",
+    "Python.b2_11_02_iteradores_mejorado.executor": "Run",
+    "Python.b2_2_registro_usuario.executor": "Run",
+    "Python.calculadora.executor": "Run",
+    "Python.contador.executor": "Run",
+    "Python.dias_semana.executor": "Run",
+    "Python.diccionario_persona.executor": "Run",
+    "Python.diciionario_crud.executor": "Run",
+    "Python.lista_frutas.executor": "Run",
+    "Python.local-global.executor": "Run",
+    "Python.local_global.executor": "Run",
+    "Python.matematicas.executor": "Run",
+    "Python.menu_principal.executor": "Run",
+    "Python.mi primer.executor": "Run",
+    "Python.operaciones.executor": "Run",
+    "Python.prueba.executor": "Debug",
+    "Python.registro_usuario.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/bloque02",
+    "ignore.virus.scanning.warn.message": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08bf118d-0515-4356-aa29-f8f7758bd668" name="Changes" comment="" />
+      <created>1759426703348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759426703348</updated>
+    </task>
+    <task id="LOCAL-00001" summary="prueba de subida">
+      <option name="closed" value="true" />
+      <created>1759428426776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759428426776</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1er ejercicio">
+      <option name="closed" value="true" />
+      <created>1759430288751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759430288751</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1er ejercicio">
+      <option name="closed" value="true" />
+      <created>1759430444274</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759430444274</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2do ejercicio">
+      <option name="closed" value="true" />
+      <created>1759432616708</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759432616708</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2do ejercicio">
+      <option name="closed" value="true" />
+      <created>1759443716851</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759443716851</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2do ejercicio">
+      <option name="closed" value="true" />
+      <created>1759444591289</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759444591290</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2do ejercicio">
+      <option name="closed" value="true" />
+      <created>1759444715147</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759444715147</updated>
+    </task>
+    <task id="LOCAL-00008" summary="5º ejercicio">
+      <option name="closed" value="true" />
+      <created>1759447584968</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759447584968</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ejercicios 5.2,6,7,8y9">
+      <option name="closed" value="true" />
+      <created>1759512073348</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759512073348</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ejercicios 5.2,6,7,8y9">
+      <option name="closed" value="true" />
+      <created>1760572747057</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1760572747058</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ejercicio final bloque1 libre de fallos. Poner en producción">
+      <option name="closed" value="true" />
+      <created>1760627689493</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1760627689493</updated>
+    </task>
+    <task id="LOCAL-00012" summary="retos bloque02">
+      <option name="closed" value="true" />
+      <created>1761763825213</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1761763825213</updated>
+    </task>
+    <task id="LOCAL-00013" summary="retos bloque02">
+      <option name="closed" value="true" />
+      <created>1761764356450</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761764356450</updated>
+    </task>
+    <task id="LOCAL-00014" summary="retos bloque02">
+      <option name="closed" value="true" />
+      <created>1761766721119</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1761766721119</updated>
+    </task>
+    <task id="LOCAL-00015" summary="retos bloque02">
+      <option name="closed" value="true" />
+      <created>1761848320653</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1761848320653</updated>
+    </task>
+    <task id="LOCAL-00016" summary="retos bloque02">
+      <option name="closed" value="true" />
+      <created>1761850497357</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1761850497357</updated>
+    </task>
+    <task id="LOCAL-00017" summary="retos bloque02">
+      <option name="closed" value="true" />
+      <created>1762451364267</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1762451364267</updated>
+    </task>
+    <task id="LOCAL-00018" summary="retos bloque02">
+      <option name="closed" value="true" />
+      <created>1762763871771</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1762763871771</updated>
+    </task>
+    <task id="LOCAL-00019" summary="actividades bloque02 restantes">
+      <option name="closed" value="true" />
+      <created>1764107562205</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1764107562205</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="90fa8fb5-19af-4e73-9a16-1ef3438904c6" value="TOOL_WINDOW" />
+        <entry key="11d9e120-edad-46f1-b1c6-e61eaad351f4" value="TOOL_WINDOW" />
+        <entry key="271979d2-d4a3-4afe-8bd8-29fde7cd910d" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="11d9e120-edad-46f1-b1c6-e61eaad351f4">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="271979d2-d4a3-4afe-8bd8-29fde7cd910d">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="90fa8fb5-19af-4e73-9a16-1ef3438904c6">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prueba de subida" />
+    <MESSAGE value="1er ejercicio" />
+    <MESSAGE value="2do ejercicio" />
+    <MESSAGE value="5º ejercicio" />
+    <MESSAGE value="ejercicios 5.2,6,7,8y9" />
+    <MESSAGE value="ejercicio final bloque1 libre de fallos. Poner en producción" />
+    <MESSAGE value="retos bloque02" />
+    <MESSAGE value="actividades bloque02 restantes" />
+    <option name="LAST_COMMIT_MESSAGE" value="actividades bloque02 restantes" />
+  </component>
+</project>
